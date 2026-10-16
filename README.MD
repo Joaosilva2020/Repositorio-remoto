@@ -6,8 +6,8 @@ Utilizar o Git e o GitHub para controlar as versões dos arquivos, registrar alt
 
 ## 2. Integrantes
 
-- Integrante 1: [Nome completo]
-- Integrante 2: [Nome completo]
+- Integrante 1: Ana Silva (nome ficticio)
+- Integrante 2: Carlos Oliveira (nome ficticio)
 
 ## 3. Requisitos resumidos
 
