@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Titulo versao B
-=======
-# Titulo versao A
->>>>>>> conflito-a
+# Projeto: Controle de Versão e Colaboração com Git
 
 ## 1. Objetivo
 
@@ -11,7 +7,7 @@ Utilizar o Git e o GitHub para controlar as versões dos arquivos, registrar alt
 ## 2. Integrantes
 
 - Integrante 1: Ana Silva (nome ficticio)
-- Integrante 2: Carlos Oliveira (nome ficticio)
+- Integrante 2: Carlos Oliveira (ficticio)
 
 ## 3. Requisitos resumidos
 
