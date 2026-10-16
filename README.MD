@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Titulo versao B
+=======
+# Titulo versao A
+>>>>>>> conflito-a
 
 ## 1. Objetivo
 
